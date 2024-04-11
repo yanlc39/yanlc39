@@ -8,3 +8,6 @@
 - 一位普普通通毕业大学生
 - 常摸 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff) ![](https://img.shields.io/badge/-C%2B%2B-brightgreen?style=flat-square)
 - 每天沉迷看番
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
