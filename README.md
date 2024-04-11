@@ -10,4 +10,34 @@
 - 每天沉迷看番
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             ██████████░░░░░░░░░░░░░░░   40.91 % 
+Go                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+```
+
+
+
+
+ Last Updated on 11/04/2024 13:07:40 UTC
 <!--END_SECTION:waka-->
