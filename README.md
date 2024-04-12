@@ -10,9 +10,7 @@
 - 每天沉迷看番
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,13 +18,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    37 mins             ████████████████████░░░░░   78.89 % 
+Vue.js                   7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Go                       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Terminal                 27 mins             ██████████████░░░░░░░░░░░   56.42 % 
+Chrome                   10 mins             ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+Intellijidea             7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+GoLand                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -42,5 +46,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2024 13:10:16 UTC
+ Last Updated on 12/04/2024 01:17:07 UTC
 <!--END_SECTION:waka-->
