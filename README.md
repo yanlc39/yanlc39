@@ -15,8 +15,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2014%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -47,5 +45,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2024 01:41:30 UTC
+ Last Updated on 10/11/2024 01:49:43 UTC
 <!--END_SECTION:waka-->
