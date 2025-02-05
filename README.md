@@ -25,13 +25,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Terminal                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -47,5 +47,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/02/2025 01:44:03 UTC
+ Last Updated on 05/02/2025 01:45:11 UTC
 <!--END_SECTION:waka-->
