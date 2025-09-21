@@ -15,6 +15,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C738%20hrs%2056%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I Mostly Code in Python** 
@@ -30,5 +32,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 01:48:58 UTC
+ Last Updated on 21/09/2025 02:02:02 UTC
 <!--END_SECTION:waka-->
