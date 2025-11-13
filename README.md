@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C897%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C904%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -25,20 +25,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   22 hrs 47 mins      █████████████████████░░░░   84.20 % 
-HTTP Request             2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Text                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Locale                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Python                   25 hrs 45 mins      ███████████████████░░░░░░   77.50 % 
+Other                    3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+HTTP Request             2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Text                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Locale                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-PyCharm                  13 hrs              ████████████░░░░░░░░░░░░░   48.07 % 
-Chrome                   12 hrs 35 mins      ████████████░░░░░░░░░░░░░   46.49 % 
-Postman                  1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Terminal                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+PyCharm                  17 hrs 3 mins       █████████████░░░░░░░░░░░░   51.33 % 
+Chrome                   14 hrs 42 mins      ███████████░░░░░░░░░░░░░░   44.26 % 
+Postman                  1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 💻 Operating System: 
-Mac                      27 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      33 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +53,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2025 02:02:04 UTC
+ Last Updated on 13/11/2025 02:04:13 UTC
 <!--END_SECTION:waka-->
