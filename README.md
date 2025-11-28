@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C970%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C975%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -25,20 +25,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   21 hrs 16 mins      █████████████████░░░░░░░░   69.15 % 
-Swift                    3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-HTTP Request             1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Java                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Other                    1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Python                   18 hrs 27 mins      ███████████████░░░░░░░░░░   60.57 % 
+Other                    3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Swift                    3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Shell                    2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Java                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 🔥 Editors: 
-Chrome                   25 hrs 56 mins      █████████████████████░░░░   84.34 % 
-PyCharm                  4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Terminal                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Chrome                   26 hrs 49 mins      ██████████████████████░░░   88.05 % 
+PyCharm                  3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Terminal                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 IntelliJ IDEA            12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Mac                      30 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +54,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2025 02:01:04 UTC
+ Last Updated on 28/11/2025 02:00:40 UTC
 <!--END_SECTION:waka-->
