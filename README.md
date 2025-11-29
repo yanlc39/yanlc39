@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C975%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C981%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -25,20 +25,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   18 hrs 27 mins      ███████████████░░░░░░░░░░   60.57 % 
-Other                    3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Swift                    3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Shell                    2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Java                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   13 hrs 46 mins      ██████████████░░░░░░░░░░░   54.86 % 
+Other                    3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Swift                    3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Shell                    2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Java                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🔥 Editors: 
-Chrome                   26 hrs 49 mins      ██████████████████████░░░   88.05 % 
-PyCharm                  3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Terminal                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-IntelliJ IDEA            12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Chrome                   22 hrs 31 mins      ██████████████████████░░░   89.73 % 
+PyCharm                  2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+IntelliJ IDEA            12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      30 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +55,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/11/2025 02:00:40 UTC
+ Last Updated on 29/11/2025 02:00:34 UTC
 <!--END_SECTION:waka-->
