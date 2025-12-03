@@ -25,21 +25,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 46 mins      ██████████████░░░░░░░░░░░   54.86 % 
-Other                    3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Swift                    3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Shell                    2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Java                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Python                   10 hrs 46 mins      ██████████████░░░░░░░░░░░   57.87 % 
+Other                    3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Shell                    2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Java                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Go                       1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🔥 Editors: 
-Chrome                   22 hrs 31 mins      ██████████████████████░░░   89.73 % 
-PyCharm                  2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-IntelliJ IDEA            12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Chrome                   16 hrs 52 mins      ███████████████████████░░   90.65 % 
+PyCharm                  1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+IntelliJ IDEA            12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Mac                      25 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      18 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -55,5 +54,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2025 02:05:30 UTC
+ Last Updated on 03/12/2025 02:04:57 UTC
 <!--END_SECTION:waka-->
