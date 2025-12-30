@@ -25,21 +25,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 59 mins      █████████████░░░░░░░░░░░░   52.51 % 
-Other                    12 hrs 34 mins      ████████████░░░░░░░░░░░░░   47.20 % 
+Python                   13 hrs 59 mins      █████████████░░░░░░░░░░░░   52.36 % 
+Other                    12 hrs 34 mins      ████████████░░░░░░░░░░░░░   47.06 % 
 Makefile                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Locale                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Chrome                   25 hrs 43 mins      ████████████████████████░   96.58 % 
-PyCharm                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Chrome                   24 hrs 56 mins      ███████████████████████░░   93.35 % 
+PyCharm                  1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 Terminal                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Notes                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Notes                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 GoLand                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Mac                      26 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -55,5 +55,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2025 02:26:05 UTC
+ Last Updated on 30/12/2025 02:11:16 UTC
 <!--END_SECTION:waka-->
