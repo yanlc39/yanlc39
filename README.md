@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C086%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C090%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -25,19 +25,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   20 hrs 26 mins      ████████████████████░░░░░   81.95 % 
-Other                    3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   19 hrs 30 mins      ████████████████████████░   96.89 % 
+Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Chrome                   21 hrs 50 mins      ██████████████████████░░░   87.53 % 
-PyCharm                  3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Terminal                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Chrome                   17 hrs 5 mins       █████████████████████░░░░   84.93 % 
+PyCharm                  3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
 
 💻 Operating System: 
-Mac                      24 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -53,5 +52,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 02:28:52 UTC
+ Last Updated on 02/01/2026 02:19:22 UTC
 <!--END_SECTION:waka-->
