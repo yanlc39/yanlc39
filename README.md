@@ -25,16 +25,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTTP Request             9 hrs 6 mins        █████████████████████░░░░   82.26 % 
-Other                    1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+HTTP Request             7 hrs 5 mins        ████████████████████████░   95.72 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 54 mins       ████████████████████░░░░░   80.34 % 
-Terminal                 1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Postman                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Chrome                   6 hrs 55 mins       ███████████████████████░░   93.54 % 
+Terminal                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Postman                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 💻 Operating System: 
-Mac                      11 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -50,5 +50,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2026 02:49:07 UTC
+ Last Updated on 20/02/2026 02:43:47 UTC
 <!--END_SECTION:waka-->
