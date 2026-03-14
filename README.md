@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C337%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C342%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -25,20 +25,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 hrs 27 mins      ███████████░░░░░░░░░░░░░░   44.58 % 
-Markdown                 6 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-HTTP Request             3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Gettext Catalog          3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-TOML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Python                   13 hrs 8 mins       █████████████░░░░░░░░░░░░   50.22 % 
+Markdown                 7 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.18 % 
+HTTP Request             3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+PythonStub               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Gettext Catalog          20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-Chrome                   22 hrs 1 min        █████████████████████░░░░   85.68 % 
-PyCharm                  3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Terminal                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Chrome                   21 hrs 27 mins      ████████████████████░░░░░   81.95 % 
+PyCharm                  4 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Terminal                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 Postman                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      25 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +54,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/03/2026 02:42:57 UTC
+ Last Updated on 14/03/2026 02:41:18 UTC
 <!--END_SECTION:waka-->
