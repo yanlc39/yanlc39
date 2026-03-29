@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C409%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C415%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -25,20 +25,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   16 hrs 9 mins       █████████████░░░░░░░░░░░░   50.48 % 
-Markdown                 7 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-Other                    6 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Text                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-TOML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Python                   15 hrs 24 mins      ██████████████░░░░░░░░░░░   54.14 % 
+Markdown                 6 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+Other                    4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Text                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 24 mins      ██████████████░░░░░░░░░░░   57.49 % 
-PyCharm                  13 hrs 30 mins      ███████████░░░░░░░░░░░░░░   42.17 % 
-RustRover                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Chrome                   15 hrs 49 mins      ██████████████░░░░░░░░░░░   55.63 % 
+PyCharm                  12 hrs 37 mins      ███████████░░░░░░░░░░░░░░   44.37 % 
 Postman                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      32 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      28 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +53,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2026 02:49:31 UTC
+ Last Updated on 29/03/2026 03:23:22 UTC
 <!--END_SECTION:waka-->
