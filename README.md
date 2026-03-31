@@ -25,19 +25,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 24 mins      ██████████████░░░░░░░░░░░   54.14 % 
-Markdown                 6 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
-Other                    4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Text                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Python                   18 hrs 50 mins      ████████████████░░░░░░░░░   62.46 % 
+Markdown                 6 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Other                    2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Text                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+.env file                20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 49 mins      ██████████████░░░░░░░░░░░   55.63 % 
-PyCharm                  12 hrs 37 mins      ███████████░░░░░░░░░░░░░░   44.37 % 
-Postman                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+PyCharm                  15 hrs 57 mins      █████████████░░░░░░░░░░░░   52.88 % 
+Chrome                   14 hrs 13 mins      ████████████░░░░░░░░░░░░░   47.12 % 
 
 💻 Operating System: 
-Mac                      28 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -53,5 +52,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/03/2026 03:26:33 UTC
+ Last Updated on 31/03/2026 03:17:36 UTC
 <!--END_SECTION:waka-->
