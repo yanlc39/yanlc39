@@ -25,35 +25,35 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   29 hrs 51 mins      ██████████████████░░░░░░░   73.22 % 
-Locale                   3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Gettext Catalog          2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Other                    2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Python                   25 hrs 49 mins      ██████████████████░░░░░░░   70.39 % 
+Locale                   3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Gettext Catalog          2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Other                    2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-Chrome                   25 hrs 8 mins       ███████████████░░░░░░░░░░   61.64 % 
-PyCharm                  10 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-Unknown Editor           4 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Notes                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Chrome                   21 hrs 48 mins      ███████████████░░░░░░░░░░   59.42 % 
+PyCharm                  9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+Unknown Editor           4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Notes                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      40 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      36 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   11 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
+Swift                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 02/05/2026 03:35:12 UTC
+ Last Updated on 03/05/2026 03:57:24 UTC
 <!--END_SECTION:waka-->
