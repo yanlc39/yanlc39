@@ -25,21 +25,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   14 hrs 43 mins      ██████████████████░░░░░░░   72.89 % 
-Locale                   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Other                    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Gettext Catalog          53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Python                   12 hrs 46 mins      ███████████████░░░░░░░░░░   61.40 % 
+Other                    2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Locale                   1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+YAML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Gettext Catalog          1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 16 mins      ██████████████░░░░░░░░░░░   55.76 % 
-PyCharm                  4 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Unknown Editor           4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Chrome                   12 hrs 37 mins      ███████████████░░░░░░░░░░   60.72 % 
+Unknown Editor           4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+PyCharm                  3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
 Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      20 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -55,5 +54,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2026 03:51:27 UTC
+ Last Updated on 07/05/2026 03:50:10 UTC
 <!--END_SECTION:waka-->
