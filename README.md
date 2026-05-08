@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C628%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C639%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -25,20 +25,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 46 mins      ███████████████░░░░░░░░░░   61.40 % 
-Other                    2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Locale                   1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-YAML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Gettext Catalog          1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Python                   11 hrs 8 mins       ██████████████░░░░░░░░░░░   54.24 % 
+Other                    2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Gettext Catalog          1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+TypeScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+YAML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 37 mins      ███████████████░░░░░░░░░░   60.72 % 
-Unknown Editor           4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-PyCharm                  3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Chrome                   9 hrs 52 mins       ████████████░░░░░░░░░░░░░   48.07 % 
+Unknown Editor           8 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.50 % 
+PyCharm                  2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
 
 💻 Operating System: 
-Mac                      20 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +53,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2026 03:50:10 UTC
+ Last Updated on 08/05/2026 03:40:36 UTC
 <!--END_SECTION:waka-->
