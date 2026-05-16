@@ -15,7 +15,32 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C693%20hrs%2019%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   22 hrs 33 mins      █████████████░░░░░░░░░░░░   50.53 % 
+Other                    6 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Locale                   4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Gettext Catalog          3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+HTTP Request             2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+
+🔥 Editors: 
+Chrome                   23 hrs 13 mins      █████████████░░░░░░░░░░░░   52.02 % 
+Unknown Editor           13 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   31.10 % 
+PyCharm                  6 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Terminal                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Postman                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+
+💻 Operating System: 
+Mac                      44 hrs 39 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -30,5 +55,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 04:06:13 UTC
+ Last Updated on 16/05/2026 03:48:48 UTC
 <!--END_SECTION:waka-->
