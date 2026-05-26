@@ -25,21 +25,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   22 hrs 8 mins       ████████████████░░░░░░░░░   63.79 % 
-HTTP Request             3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-JSON                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-TOML                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Org                      1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Python                   21 hrs 31 mins      ████████████████░░░░░░░░░   64.18 % 
+HTTP Request             3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+JSON                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+TOML                     2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Locale                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🔥 Editors: 
-Chrome                   23 hrs 35 mins      █████████████████░░░░░░░░   67.94 % 
-PyCharm                  8 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-Claude Code              2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Postman                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Chrome                   22 hrs 21 mins      █████████████████░░░░░░░░   66.63 % 
+PyCharm                  7 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Claude Code              3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Postman                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+GoLand                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Mac                      34 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -55,5 +55,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2026 04:39:24 UTC
+ Last Updated on 26/05/2026 04:14:24 UTC
 <!--END_SECTION:waka-->
