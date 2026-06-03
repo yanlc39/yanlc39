@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C780%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C787%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -25,18 +25,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   29 hrs 48 mins      ███████████████████░░░░░░   75.59 % 
-HTTP Request             2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Other                    2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Python                   27 hrs 45 mins      ██████████████████░░░░░░░   70.38 % 
+Other                    5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+HTTP Request             2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 textmate                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Go                       40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+YAML                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-Chrome                   20 hrs 30 mins      █████████████░░░░░░░░░░░░   51.97 % 
-Claude Code              11 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   29.47 % 
-PyCharm                  6 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Postman                  1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-GoLand                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Chrome                   22 hrs 52 mins      ██████████████░░░░░░░░░░░   57.98 % 
+Claude Code              10 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+PyCharm                  5 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Postman                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+GoLand                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
 Mac                      39 hrs 26 mins      █████████████████████████   100.00 % 
@@ -55,5 +55,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2026 04:47:55 UTC
+ Last Updated on 03/06/2026 04:58:28 UTC
 <!--END_SECTION:waka-->
