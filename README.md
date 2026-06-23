@@ -25,20 +25,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   36.47 % 
-TypeScript               4 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Go                       4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Other                    2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Python                   5 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+TypeScript               4 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+Go                       4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Other                    2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Vue                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 23 mins      ███████████████████████░░   91.20 % 
-VS Code                  1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Copilot CLI              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Chrome                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Claude Code              18 hrs 17 mins      ███████████████████████░░   90.59 % 
+VS Code                  1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Copilot CLI              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      24 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +54,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2026 05:13:38 UTC
+ Last Updated on 23/06/2026 04:09:30 UTC
 <!--END_SECTION:waka-->
