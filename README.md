@@ -25,19 +25,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 45 mins       █████████████░░░░░░░░░░░░   50.75 % 
-Other                    1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Swift                    1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Python                   5 hrs 13 mins       █████████████░░░░░░░░░░░░   53.03 % 
+Other                    1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Swift                    1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 51 mins       ████████████████████████░   94.27 % 
-Notes                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-PyCharm                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Claude Code              8 hrs 51 mins       ██████████████████████░░░   89.93 % 
+Chrome                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Notes                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+PyCharm                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 Operating System: 
-Mac                      9 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -53,5 +54,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2026 04:38:46 UTC
+ Last Updated on 29/06/2026 04:47:23 UTC
 <!--END_SECTION:waka-->
