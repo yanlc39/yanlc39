@@ -25,13 +25,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   17 mins             █████████████████░░░░░░░░   68.81 % 
+Other                    7 mins              ████████░░░░░░░░░░░░░░░░░   31.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   17 mins             █████████████████░░░░░░░░   68.81 % 
+Codex CLI                7 mins              ████████░░░░░░░░░░░░░░░░░   31.19 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -47,5 +49,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2026 03:48:21 UTC
+ Last Updated on 21/07/2026 03:27:43 UTC
 <!--END_SECTION:waka-->
