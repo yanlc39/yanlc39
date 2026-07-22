@@ -15,9 +15,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C877%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C878%20hrs%2013%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,15 +25,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   17 mins             █████████████████░░░░░░░░   68.81 % 
-Other                    7 mins              ████████░░░░░░░░░░░░░░░░░   31.19 % 
+Other                    50 mins             ████████████░░░░░░░░░░░░░   48.75 % 
+Java                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Python                   17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 🔥 Editors: 
-Chrome                   17 mins             █████████████████░░░░░░░░   68.81 % 
-Codex CLI                7 mins              ████████░░░░░░░░░░░░░░░░░   31.19 % 
+Claude Code              49 mins             ████████████░░░░░░░░░░░░░   48.15 % 
+Codex CLI                28 mins             ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+Chrome                   17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -49,5 +54,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2026 03:27:43 UTC
+ Last Updated on 22/07/2026 03:26:23 UTC
 <!--END_SECTION:waka-->
