@@ -15,8 +15,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C879%20hrs%2031%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -25,20 +23,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    50 mins             ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-Python                   47 mins             ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-Java                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-TOML                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Other                    50 mins             ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Python                   49 mins             ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+TypeScript               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Java                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+TOML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 🔥 Editors: 
-Claude Code              1 hr 58 mins        █████████████████░░░░░░░░   68.88 % 
-Codex CLI                28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Chrome                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Claude Code              2 hrs 13 mins       ████████████████░░░░░░░░░   65.16 % 
+Codex CLI                31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+VS Code                  22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Chrome                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 
 💻 Operating System: 
-Mac                      2 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +52,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 03:31:52 UTC
+ Last Updated on 24/07/2026 03:27:41 UTC
 <!--END_SECTION:waka-->
