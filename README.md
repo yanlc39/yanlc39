@@ -27,45 +27,45 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     8 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-HTTP Request             8 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-README                   4 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Markdown                 4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-TypeScript               3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+HTTP Request             7 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Java                     7 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Markdown                 5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+README                   4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Python                   3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 
 🔥 Editors: 
-Chrome                   21 hrs 39 mins      ████████████░░░░░░░░░░░░░   46.90 % 
-VS Code                  15 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   32.67 % 
-Claude Code              9 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Postman                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Notes                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Chrome                   19 hrs 30 mins      ███████████░░░░░░░░░░░░░░   43.39 % 
+VS Code                  11 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+Claude Code              11 hrs 13 mins      ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+Codex Vscode             2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Postman                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Mac                      46 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      44 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 22 mins (80.94%)
+⏱ AI Coding Time: 36 hrs 56 mins (82.18%)
 
-✍️ 47,551 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 44,340 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,338,383,960 Input Tokens, 8,579,903 Output Tokens
+🔤 2,157,078,690 Input Tokens, 8,066,524 Output Tokens
 
-💵 $4869.00 Estimated AI Cost This Week
+💵 $2040.17 Estimated AI Cost This Week
 
-🧠 85 AI Sessions, 501 AI Prompts
+🧠 79 AI Sessions, 472 AI Prompts
 
-GPT                      19,907 lines        ████████████████████████░   95.39 % 
-Sonnet                   957 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+GPT                      13,565 lines        ███████████████████░░░░░░   76.29 % 
+Sonnet                   4,198 lines         ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+Ornith                   14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 K                        4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Ornith                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 386 characters per prompt
+📝 Concise Prompter — average 464 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -83,5 +83,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 02:21:29 UTC
+ Last Updated on 11/08/2026 02:11:25 UTC
 <!--END_SECTION:waka-->
