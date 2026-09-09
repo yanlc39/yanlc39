@@ -15,11 +15,11 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C513%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C517%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-387%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-389%20hrs%2024%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,43 +27,45 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     10 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-Other                    10 hrs              ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-Go                       9 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-YAML                     4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Markdown                 4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Bash                     11 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+Go                       7 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Markdown                 7 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Other                    6 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+YAML                     4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
 
 🔥 Editors: 
-Chrome                   26 hrs 12 mins      ███████████████░░░░░░░░░░   61.12 % 
-Claude Code              16 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   38.50 % 
-Notes                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Chrome                   24 hrs 31 mins      ███████████████░░░░░░░░░░   58.97 % 
+Claude Code              16 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   40.63 % 
+Notes                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      42 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      41 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 24 mins (52.23%)
+⏱ AI Coding Time: 22 hrs 1 min (52.97%)
 
-✍️ 50,149 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 43,554 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 20,900,345 Input Tokens, 1,972,335 Output Tokens
+🔤 21,567,834 Input Tokens, 1,827,763 Output Tokens
 
-💵 $509.57 Estimated AI Cost This Week
+💵 $471.55 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 348 AI Prompts
+🧠 41 AI Sessions, 347 AI Prompts
 
-Opus                     49,989 lines        █████████████████████████   99.58 % 
-Sonnet                   135 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Qwen                     78 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Opus                     43,166 lines        █████████████████████████   98.86 % 
+Sonnet                   419 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Qwen                     78 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 370 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 317 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -80,5 +82,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 04:13:28 UTC
+ Last Updated on 09/09/2026 04:19:28 UTC
 <!--END_SECTION:waka-->
