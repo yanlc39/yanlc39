@@ -15,9 +15,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C559%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C559%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-427%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-427%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -27,26 +27,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-Python                   11 hrs 43 mins      ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-Go                       10 hrs              █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Other                    6 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Bash                     5 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Markdown                 13 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+Python                   11 hrs 43 mins      ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+Go                       10 hrs              █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Other                    6 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Bash                     4 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   40.48 % 
-Chrome                   18 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   35.33 % 
-Codex Vscode             12 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+Claude Code              21 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
+Chrome                   17 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   34.54 % 
+Codex Vscode             12 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
 Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      52 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      51 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 hrs 10 mins (77.19%)
+⏱ AI Coding Time: 40 hrs 10 mins (78.14%)
 
 ✍️ 45,494 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -82,5 +82,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 04:27:49 UTC
+ Last Updated on 14/09/2026 04:34:14 UTC
 <!--END_SECTION:waka-->
