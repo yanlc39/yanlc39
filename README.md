@@ -15,9 +15,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C858%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C875%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-746%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-769%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -27,45 +27,45 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   32 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   31.37 % 
-Markdown                 21 hrs 20 mins      █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-JSON                     11 hrs 49 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Other                    8 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Go                       8 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Python                   43 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   39.89 % 
+Markdown                 18 hrs 52 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+JSON                     11 hrs 1 min        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Other                    9 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Bash                     5 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
 🔥 Editors: 
-Codex Vscode             97 hrs 4 mins       ███████████████████████░░   92.55 % 
-Claude Code              5 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Chrome                   2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Codex Vscode             99 hrs 52 mins      ███████████████████████░░   91.20 % 
+Claude Code              6 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Chrome                   2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 Hermes Agent             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Mac                      104 hrs 53 mins     █████████████████████████   100.00 % 
+Mac                      109 hrs 30 mins     █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 103 hrs 11 mins (98.37%)
+⏱ AI Coding Time: 107 hrs 27 mins (98.13%)
 
-✍️ 93,746 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 87,290 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 203,976,465 Input Tokens, 35,499,609 Output Tokens
+🔤 179,385,989 Input Tokens, 34,316,802 Output Tokens
 
-💵 $3796.18 Estimated AI Cost This Week
+💵 $2048.72 Estimated AI Cost This Week
 
-🧠 242 AI Sessions, 475 AI Prompts
+🧠 279 AI Sessions, 506 AI Prompts
 
-GPT                      76,947 lines        ████████████████████░░░░░   81.22 % 
-MiMo                     16,915 lines        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Qwen                     583 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Codex-Vscode             297 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+GPT                      67,068 lines        ███████████████████░░░░░░   75.97 % 
+MiMo                     20,851 lines        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+Codex-Vscode             297 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Qwen                     66 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,990 characters per prompt
+📚 Verbose Prompter — average 3,005 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -83,5 +83,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 04:20:59 UTC
+ Last Updated on 22/10/2026 04:20:25 UTC
 <!--END_SECTION:waka-->
