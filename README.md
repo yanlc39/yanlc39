@@ -15,9 +15,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C875%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C898%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-769%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-793%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -27,45 +27,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   43 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   39.89 % 
-Markdown                 18 hrs 52 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-JSON                     11 hrs 1 min        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Other                    9 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Bash                     5 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Python                   42 hrs 1 min        ███████████░░░░░░░░░░░░░░   42.52 % 
+Other                    15 hrs 35 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Markdown                 11 hrs 11 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+JSON                     7 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Bash                     5 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 🔥 Editors: 
-Codex Vscode             99 hrs 52 mins      ███████████████████████░░   91.20 % 
-Claude Code              6 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Chrome                   2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Hermes Agent             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Codex Vscode             87 hrs 10 mins      ██████████████████████░░░   88.21 % 
+Claude Code              7 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Chrome                   3 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Hermes Agent             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+OMP                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Mac                      109 hrs 30 mins     █████████████████████████   100.00 % 
+Mac                      98 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 107 hrs 27 mins (98.13%)
+⏱ AI Coding Time: 95 hrs 31 mins (96.66%)
 
-✍️ 87,290 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 79,260 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 179,385,989 Input Tokens, 34,316,802 Output Tokens
+🔤 117,962,436 Input Tokens, 27,997,546 Output Tokens
 
-💵 $2048.72 Estimated AI Cost This Week
+💵 $1804.79 Estimated AI Cost This Week
 
-🧠 279 AI Sessions, 506 AI Prompts
+🧠 281 AI Sessions, 527 AI Prompts
 
-GPT                      67,068 lines        ███████████████████░░░░░░   75.97 % 
-MiMo                     20,851 lines        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-Codex-Vscode             297 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Qwen                     66 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      64,945 lines        ████████████████████░░░░░   81.27 % 
+MiMo                     14,507 lines        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Codex-Vscode             456 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,005 characters per prompt
+📚 Verbose Prompter — average 3,127 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -83,5 +82,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 04:20:25 UTC
+ Last Updated on 23/10/2026 04:24:46 UTC
 <!--END_SECTION:waka-->
