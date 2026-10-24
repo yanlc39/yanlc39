@@ -15,9 +15,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C898%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C903%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-793%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-803%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -27,44 +27,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   42 hrs 1 min        ███████████░░░░░░░░░░░░░░   42.52 % 
-Other                    15 hrs 35 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Markdown                 11 hrs 11 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-JSON                     7 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Bash                     5 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Python                   33 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   38.28 % 
+Other                    17 hrs 37 mins      █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Markdown                 10 hrs 3 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+JSON                     8 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Bash                     5 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🔥 Editors: 
-Codex Vscode             87 hrs 10 mins      ██████████████████████░░░   88.21 % 
-Claude Code              7 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Chrome                   3 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Hermes Agent             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-OMP                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Codex Vscode             72 hrs 48 mins      █████████████████████░░░░   82.63 % 
+Claude Code              11 hrs 5 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Chrome                   4 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Hermes Agent             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+OMP                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      98 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      88 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 95 hrs 31 mins (96.66%)
+⏱ AI Coding Time: 84 hrs 52 mins (96.32%)
 
-✍️ 79,260 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 68,560 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 117,962,436 Input Tokens, 27,997,546 Output Tokens
+🔤 92,070,101 Input Tokens, 21,887,146 Output Tokens
 
-💵 $1804.79 Estimated AI Cost This Week
+💵 $2344.91 Estimated AI Cost This Week
 
-🧠 281 AI Sessions, 527 AI Prompts
+🧠 300 AI Sessions, 599 AI Prompts
 
-GPT                      64,945 lines        ████████████████████░░░░░   81.27 % 
-MiMo                     14,507 lines        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Codex-Vscode             456 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+GPT                      54,854 lines        ████████████████████░░░░░   79.44 % 
+MiMo                     13,737 lines        █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Codex-Vscode             456 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,127 characters per prompt
+📚 Verbose Prompter — average 2,924 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -82,5 +82,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 04:24:46 UTC
+ Last Updated on 24/10/2026 04:15:06 UTC
 <!--END_SECTION:waka-->
