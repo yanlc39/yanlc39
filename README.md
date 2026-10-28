@@ -15,9 +15,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C917%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C930%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-819%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-830%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -27,44 +27,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   28 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   31.47 % 
-Other                    19 hrs 3 mins       █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Markdown                 13 hrs 57 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-JSON                     7 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Bash                     5 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Python                   22 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   30.72 % 
+Other                    14 hrs 19 mins      █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Markdown                 12 hrs 27 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+JSON                     7 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Notifications            4 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 🔥 Editors: 
-Codex Vscode             62 hrs 29 mins      █████████████████░░░░░░░░   68.71 % 
-Claude Code              20 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-Chrome                   7 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-OMP                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Hermes Agent             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Codex Vscode             42 hrs 31 mins      ███████████████░░░░░░░░░░   58.01 % 
+Claude Code              22 hrs 22 mins      ████████░░░░░░░░░░░░░░░░░   30.51 % 
+Chrome                   8 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+OMP                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Hermes Agent             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      90 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      73 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 84 hrs 7 mins (92.51%)
+⏱ AI Coding Time: 66 hrs 2 mins (90.08%)
 
-✍️ 57,576 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 43,613 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 81,619,323 Input Tokens, 18,460,003 Output Tokens
+🔤 63,312,634 Input Tokens, 13,792,804 Output Tokens
 
-💵 $2319.15 Estimated AI Cost This Week
+💵 $2092.85 Estimated AI Cost This Week
 
-🧠 321 AI Sessions, 651 AI Prompts
+🧠 239 AI Sessions, 545 AI Prompts
 
-GPT                      46,716 lines        ████████████████████░░░░░   80.62 % 
-MiMo                     11,068 lines        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Codex-Vscode             159 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+GPT                      37,709 lines        ██████████████████████░░░   86.26 % 
+MiMo                     5,846 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Codex-Vscode             159 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,727 characters per prompt
+📚 Verbose Prompter — average 2,132 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -82,5 +82,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 04:41:28 UTC
+ Last Updated on 28/10/2026 05:15:34 UTC
 <!--END_SECTION:waka-->
