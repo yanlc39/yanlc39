@@ -15,6 +15,10 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C068%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C005%20hrs%203%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -79,5 +83,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2026 02:09:12 UTC
+ Last Updated on 16/11/2026 05:59:00 UTC
 <!--END_SECTION:waka-->
