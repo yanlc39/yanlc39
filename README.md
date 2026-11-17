@@ -27,61 +27,61 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-Python                   8 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Markdown                 6 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Fork                     4 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-TypeScript               3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Other                    13 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+Markdown                 10 hrs 46 mins      ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+Python                   8 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Fork                     4 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Notifications            3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 1 min        ██████████████░░░░░░░░░░░   57.59 % 
-Chrome                   11 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-Codex Vscode             9 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Claude Code              24 hrs 30 mins      █████████████░░░░░░░░░░░░   50.41 % 
+Chrome                   14 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+Codex Vscode             9 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
 Opencode Cli             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 Codex Exec               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Mac                      48 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      48 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 hrs 22 mins (83.0%)
+⏱ AI Coding Time: 37 hrs 29 mins (77.13%)
 
-✍️ 16,521 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 15,666 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 50,183,208 Input Tokens, 5,836,078 Output Tokens
+🔤 51,597,541 Input Tokens, 5,801,364 Output Tokens
 
-💵 $3021.67 Estimated AI Cost This Week
+💵 $3061.41 Estimated AI Cost This Week
 
-🧠 79 AI Sessions, 452 AI Prompts
+🧠 86 AI Sessions, 455 AI Prompts
 
-Opus                     6,435 lines         █████████░░░░░░░░░░░░░░░░   37.98 % 
-GPT                      4,788 lines         ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-Sonnet                   3,872 lines         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-Fable                    1,603 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-DeepSeek                 244 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Opus                     5,181 lines         ████████░░░░░░░░░░░░░░░░░   32.76 % 
+GPT                      4,788 lines         ████████░░░░░░░░░░░░░░░░░   30.27 % 
+Sonnet                   3,883 lines         ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+Fable                    1,718 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+DeepSeek                 244 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,108 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 1,053 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ██████████░░░░░░░░░░░░░░░   40.74 % 
-Rust                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Swift                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   11 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
+Swift                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 16/11/2026 05:59:00 UTC
+ Last Updated on 17/11/2026 07:36:57 UTC
 <!--END_SECTION:waka-->
