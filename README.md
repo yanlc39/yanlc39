@@ -15,9 +15,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C081%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C085%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C013%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C019%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
 
@@ -27,46 +27,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 53 mins      ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-Markdown                 13 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-Notifications            9 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Python                   6 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Fork                     2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Other                    14 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+Markdown                 14 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+Notifications            10 hrs 36 mins      █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Python                   6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Fork                     4 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 19 mins      ███████████░░░░░░░░░░░░░░   44.69 % 
-Chrome                   19 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   37.38 % 
-Codex Vscode             8 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Opencode Cli             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Codex Exec               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Chrome                   23 hrs 52 mins      ███████████░░░░░░░░░░░░░░   43.55 % 
+Claude Code              20 hrs 38 mins      █████████░░░░░░░░░░░░░░░░   37.65 % 
+Codex Vscode             9 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Opencode Cli             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Codex Exec               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Mac                      52 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      54 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 17 mins (69.52%)
+⏱ AI Coding Time: 35 hrs 7 mins (64.06%)
 
-✍️ 11,212 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,456 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 34,282,037 Input Tokens, 4,929,307 Output Tokens
+🔤 31,745,530 Input Tokens, 4,822,307 Output Tokens
 
-💵 $2775.79 Estimated AI Cost This Week
+💵 $2717.96 Estimated AI Cost This Week
 
-🧠 107 AI Sessions, 412 AI Prompts
+🧠 121 AI Sessions, 355 AI Prompts
 
-Opus                     5,521 lines         ████████████░░░░░░░░░░░░░   48.80 % 
-GPT                      4,788 lines         ███████████░░░░░░░░░░░░░░   42.32 % 
-Sonnet                   393 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Fable                    366 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-DeepSeek                 244 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+GPT                      4,788 lines         █████████████░░░░░░░░░░░░   50.51 % 
+Opus                     2,377 lines         ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+Fable                    1,283 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Sonnet                   785 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+DeepSeek                 244 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,229 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 1,443 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -83,5 +83,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2026 06:59:44 UTC
+ Last Updated on 20/11/2026 06:52:14 UTC
 <!--END_SECTION:waka-->
