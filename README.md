@@ -15,9 +15,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C103%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C105%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C040%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C043%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue?style=flat)
 
@@ -27,45 +27,45 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    18 hrs 38 mins      ███████████░░░░░░░░░░░░░░   43.77 % 
-Markdown                 9 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-Notifications            3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Fork                     3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-JavaScript               1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Other                    16 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   38.41 % 
+Markdown                 10 hrs 26 mins      ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+Fork                     4 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Notifications            4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+JavaScript               2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🔥 Editors: 
-Chrome                   16 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   38.47 % 
-Codex Vscode             13 hrs 44 mins      ████████░░░░░░░░░░░░░░░░░   32.24 % 
-Claude Code              10 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-Codex Exec               1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Chrome                   18 hrs 16 mins      ███████████░░░░░░░░░░░░░░   43.07 % 
+Codex Vscode             14 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   34.58 % 
+Claude Code              6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Codex Exec               1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Antigravity CLI          43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 💻 Operating System: 
-Mac                      42 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      42 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 46 mins (69.9%)
+⏱ AI Coding Time: 29 hrs 2 mins (68.46%)
 
-✍️ 9,878 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11,157 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 40,343,354 Input Tokens, 3,873,176 Output Tokens
+🔤 50,954,016 Input Tokens, 4,055,894 Output Tokens
 
-💵 $1423.47 Estimated AI Cost This Week
+💵 $1569.94 Estimated AI Cost This Week
 
-🧠 80 AI Sessions, 381 AI Prompts
+🧠 101 AI Sessions, 484 AI Prompts
 
-Opus                     4,533 lines         ███████████░░░░░░░░░░░░░░   45.72 % 
-Fable                    3,411 lines         █████████░░░░░░░░░░░░░░░░   34.40 % 
-GPT                      1,242 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Sonnet                   729 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    4,766 lines         ███████████░░░░░░░░░░░░░░   42.58 % 
+Opus                     4,304 lines         ██████████░░░░░░░░░░░░░░░   38.45 % 
+GPT                      1,436 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Sonnet                   688 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,035 characters per prompt
+📄 Detailed Prompter — average 1,093 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -83,5 +83,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2026 08:03:41 UTC
+ Last Updated on 26/11/2026 07:54:45 UTC
 <!--END_SECTION:waka-->
